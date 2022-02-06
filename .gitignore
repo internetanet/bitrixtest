@@ -1,0 +1,12 @@
+.idea/
+/images/
+/upload/
+/bitrix/
+_logs/
+*.txt
+*.log
+*.xml
+*.tar.gz
+*.htaccess
+*.htaccess.restore
+/cgi-bin/
